@@ -1,5 +1,7 @@
 h3 {
    color: #D8BFD8;
+   font-weight: bold; 
+   font-style: italic;
    text-align: center;
    border-bottom: 1px solid black;
 }
@@ -9,5 +11,14 @@ h1 {
 }
 
 h5 {
-	font-weight: 600px
+	font-weight: 600px;
+}
+
+body {
+	background-color: #ede7f6; 
+
+}
+
+html{
+    border: 1px solid;
 }
